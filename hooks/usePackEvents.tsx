@@ -20,7 +20,7 @@ export default function usePackEvents() {
             <div className="flex flex-col gap-2">
               <p className="text-green-800">
                 {" "}
-                Congratulations! You were awarded a fancy cars pack!
+                Congratulations! You were awarded a skunk works pack!
               </p>
               <p>
                 View and open it in the{" "}
